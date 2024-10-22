@@ -26,7 +26,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
     "name":"corner_bottom_right",
     "path":"sprites/corner_bottom_right/corner_bottom_right.yy",

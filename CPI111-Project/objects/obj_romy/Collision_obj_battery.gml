@@ -1,3 +1,6 @@
-battery += 30
-xVelocity += 1
-yVelocity += 1
+if(battery > 70) {
+	battery = 100
+}
+else {
+	battery += 30
+}
