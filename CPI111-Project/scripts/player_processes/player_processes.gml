@@ -22,6 +22,11 @@ function calc_movement() {
 		var _dir = point_direction(0, 0, _hmove, _vmove)
 		battery -= 0.05
 		
+		//if the battery is 0% or less, restart the level
+		if (battery <= 0){
+			room_restart()
+		}
+		
 		//get distance we are moving
 		_hmove = lengthdir_x(walk_spd, _dir)
 		_vmove = lengthdir_y(walk_spd, _dir)
