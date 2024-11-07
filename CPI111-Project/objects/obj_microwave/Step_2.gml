@@ -1,8 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
-if(obj_romy.x < 447 && obj_romy.y < 530){
+if(place_meeting(obj_microwave.x, obj_microwave.y, obj_romy)) {
 	within_range = true
 }
-else{
+else {
 	within_range = false
 }

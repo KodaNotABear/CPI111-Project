@@ -1,11 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
-if(within_range && !interacted){
-	draw_set_alpha(1)
-	
-	draw_text(500,500,"Press E to Interact")
-}
-if(interacted){
-	draw_set_alpha(3)
-	draw_text(500,500,"YAYY")
+if(interacted) {
+	draw_text_ext_transformed(800, 690, "Level Complete.", 1, 10000, 0.8, 0.8, 0)
+	draw_sprite(spr_romy_victory, 0, 0, 640)
 }
