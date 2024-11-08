@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_collision_box",
+  "%Name":"obj_dresser",
   "eventList":[],
   "managed":true,
-  "name":"obj_collision_box",
+  "name":"obj_dresser",
   "overriddenProperties":[],
   "parent":{
-    "name":"borders",
-    "path":"folders/Objects/borders.yy",
+    "name":"lvl1objects",
+    "path":"folders/Objects/level_objects/lvl1objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_collision_box",
-    "path":"sprites/spr_collision_box/spr_collision_box.yy",
+    "name":"spr_dresser",
+    "path":"sprites/spr_dresser/spr_dresser.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
