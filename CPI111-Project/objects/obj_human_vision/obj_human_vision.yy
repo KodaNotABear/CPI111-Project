@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_lamp",
-  "eventList":[],
+  "%Name":"obj_human_vision",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_lamp",
+  "name":"obj_human_vision",
   "overriddenProperties":[],
   "parent":{
-    "name":"Level 1",
-    "path":"folders/Objects/Level Objects/Level 1.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_lamp",
-    "path":"sprites/spr_lamp/spr_lamp.yy",
+    "name":"spr_human_vision_l",
+    "path":"sprites/spr_human_vision_l/spr_human_vision_l.yy",
   },
   "spriteMaskId":null,
   "visible":true,

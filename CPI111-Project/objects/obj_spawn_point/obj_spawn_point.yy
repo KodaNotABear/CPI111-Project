@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_lamp",
+  "%Name":"obj_spawn_point",
   "eventList":[],
   "managed":true,
-  "name":"obj_lamp",
+  "name":"obj_spawn_point",
   "overriddenProperties":[],
   "parent":{
-    "name":"Level 1",
-    "path":"folders/Objects/Level Objects/Level 1.yy",
+    "name":"Controllers",
+    "path":"folders/Objects/Controllers.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_lamp",
-    "path":"sprites/spr_lamp/spr_lamp.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

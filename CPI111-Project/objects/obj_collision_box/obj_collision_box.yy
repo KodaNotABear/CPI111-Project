@@ -6,8 +6,8 @@
   "name":"obj_collision_box",
   "overriddenProperties":[],
   "parent":{
-    "name":"borders",
-    "path":"folders/Objects/borders.yy",
+    "name":"Borders",
+    "path":"folders/Objects/Borders.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -12,8 +12,8 @@
   "name":"obj_microwave",
   "overriddenProperties":[],
   "parent":{
-    "name":"appliances",
-    "path":"folders/Objects/appliances.yy",
+    "name":"Appliances",
+    "path":"folders/Objects/Appliances.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -6,8 +6,8 @@
   "name":"obj_table_front_legs",
   "overriddenProperties":[],
   "parent":{
-    "name":"lvl1objects",
-    "path":"folders/Objects/level_objects/lvl1objects.yy",
+    "name":"Level 1",
+    "path":"folders/Objects/Level Objects/Level 1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
