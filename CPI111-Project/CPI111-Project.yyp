@@ -87,6 +87,8 @@
     {"id":{"name":"spr_twin1_up","path":"sprites/spr_twin1_up/spr_twin1_up.yy",},},
     {"id":{"name":"spr_twin2_left","path":"sprites/spr_twin2_left/spr_twin2_left.yy",},},
     {"id":{"name":"spr_twin2_right","path":"sprites/spr_twin2_right/spr_twin2_right.yy",},},
+    {"id":{"name":"spr_twin2_walk_left","path":"sprites/spr_twin2_walk_left/spr_twin2_walk_left.yy",},},
+    {"id":{"name":"spr_twin2_walk_right","path":"sprites/spr_twin2_walk_right/spr_twin2_walk_right.yy",},},
     {"id":{"name":"ts_tutorial","path":"sprites/ts_tutorial/ts_tutorial.yy",},},
     {"id":{"name":"wall_bottom","path":"sprites/wall_bottom/wall_bottom.yy",},},
     {"id":{"name":"wall_left","path":"sprites/wall_left/wall_left.yy",},},
