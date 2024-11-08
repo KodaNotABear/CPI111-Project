@@ -88,6 +88,7 @@
     {"id":{"name":"spr_single_bed","path":"sprites/spr_single_bed/spr_single_bed.yy",},},
     {"id":{"name":"spr_table_front_legs","path":"sprites/spr_table_front_legs/spr_table_front_legs.yy",},},
     {"id":{"name":"spr_tutorial_e","path":"sprites/spr_tutorial_e/spr_tutorial_e.yy",},},
+    {"id":{"name":"spr_tutorial_wasd","path":"sprites/spr_tutorial_wasd/spr_tutorial_wasd.yy",},},
     {"id":{"name":"spr_twin1_down","path":"sprites/spr_twin1_down/spr_twin1_down.yy",},},
     {"id":{"name":"spr_twin1_up","path":"sprites/spr_twin1_up/spr_twin1_up.yy",},},
     {"id":{"name":"spr_twin2_left","path":"sprites/spr_twin2_left/spr_twin2_left.yy",},},
