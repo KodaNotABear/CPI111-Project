@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_human_vision",
+  "%Name":"obj_lvl2_button",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_human_vision",
+  "name":"obj_lvl2_button",
   "overriddenProperties":[],
   "parent":{
-    "name":"Level 1",
-    "path":"folders/Objects/Level Objects/Level 1.yy",
+    "name":"Buttons",
+    "path":"folders/Objects/Buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_human_vision_l",
-    "path":"sprites/spr_human_vision_l/spr_human_vision_l.yy",
+    "name":"spr_lvl2_button",
+    "path":"sprites/spr_lvl2_button/spr_lvl2_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,
