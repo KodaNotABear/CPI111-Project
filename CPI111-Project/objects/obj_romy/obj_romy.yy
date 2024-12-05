@@ -39,7 +39,7 @@
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
     "name":"spr_romy_front",
     "path":"sprites/spr_romy_front/spr_romy_front.yy",
