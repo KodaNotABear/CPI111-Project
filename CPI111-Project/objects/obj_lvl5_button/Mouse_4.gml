@@ -1,1 +1,1 @@
-room_goto(lvl5)
+room_goto(lvl4)
