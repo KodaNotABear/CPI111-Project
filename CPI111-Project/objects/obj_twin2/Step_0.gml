@@ -1,4 +1,3 @@
-
 if(hspeed > 0) {
 	timer -= 0.02
 	if(timer > 0.5) {

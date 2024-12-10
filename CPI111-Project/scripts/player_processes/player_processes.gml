@@ -65,3 +65,24 @@ function collision() {
 		if !place_meeting(x + sign(_ty - y), y, obj_collision_box) y += sign(_ty - y)
 	}
 }
+
+function calc_total_trash() {
+	if(room == tutorialRoom) {
+		totalTrash = 5
+	}
+	if(room == lvl1) {
+		totalTrash = 7
+	}
+	if(room == lvl2) {
+		totalTrash = 10
+	}
+	if(room == lvl3) {
+		totalTrash = 12
+	}
+	if(room == lvl4) {
+		totalTrash = 20
+	}
+	if(room == lvl5) {
+		totalTrash = 30
+	}
+}

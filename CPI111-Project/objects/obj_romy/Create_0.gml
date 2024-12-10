@@ -7,3 +7,5 @@ battery_bar_width = 100
 battery_bar_height = 20
 battery_bar_x = 10
 battery_bar_y = 10
+
+score = 0

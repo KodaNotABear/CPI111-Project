@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+collision()
 
 if(vspeed > 0) {
 	timer -= 0.02

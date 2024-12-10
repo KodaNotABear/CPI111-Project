@@ -1,3 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
+audio_pause_all()
 room_goto(lvl2)
+audio_play_sound(mus_lvl2, 1, true)

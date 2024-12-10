@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+collision()
+
 if(!obj_hide_box.safe && !obj_hide_box_1.safe
 	&& !obj_hide_box_2.safe && !obj_hide_box_3.safe){
 	move_towards_point(obj_romy.x,obj_romy.y,1)

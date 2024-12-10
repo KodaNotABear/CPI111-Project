@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"yellow_box",
-    "path":"sprites/yellow_box/yellow_box.yy",
+    "name":"spr_yellow_box",
+    "path":"sprites/spr_yellow_box/spr_yellow_box.yy",
   },
   "spriteMaskId":null,
   "visible":false,

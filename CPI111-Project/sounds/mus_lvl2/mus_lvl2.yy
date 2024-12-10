@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_lvl2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":38.31916,
+  "name":"mus_lvl2",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_lvl2.WAV",
+  "type":0,
+  "volume":0.5,
+}
