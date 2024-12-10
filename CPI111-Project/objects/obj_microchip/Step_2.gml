@@ -1,4 +1,4 @@
-if(place_meeting(obj_laptop.x, obj_laptop.y, obj_romy)) {
+if(place_meeting(obj_microchip.x, obj_microchip.y, obj_romy)) {
 	within_range = true
 }
 else {
